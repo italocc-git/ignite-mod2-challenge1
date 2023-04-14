@@ -2,20 +2,20 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/italocc-git/ignite-mod2-challenge1/blob/main/LICENSE) 
 
-# Sobre o projeto
+# About the project
 
-API simples para realização de operações CRUD em uma entidade de Usuários mockado. Desafio proposto no módulo 2 do Curso Ignite.
+Simple API for performing CRUD operations on a simulated Users entity. Challenge proposed in module 2 of the Ignite Course.
 
-## Funcionalidades 
+## Features 
 
 <ul>
-  <li>Criação de Usuário </li>
-  <li>Listagem de todos os usuários</li>
-  <li>Apresentação do perfil completo do usuário cadastrado </li>
-  <li>Alteração de status do usuário para administrador. </li>
+   <li>User Creation </li>
+   <li>List of all users</li>
+   <li>Full user profile presentation </li>
+   <li>Changed user status to administrator. </li>
  </ul>
  
- # Tecnologias utilizadas
+ # Technologies
 
 ## Backend : 
  <li> Jest
@@ -26,25 +26,25 @@ API simples para realização de operações CRUD em uma entidade de Usuários m
 
 
 
- # Como executar o projeto
+ # How to run the project
  
- Pré-requisitos: npm / yarn
+ Required: npm / yarn
 
 ```bash
-# clonar repositório
+# clone the git repository
 git clone https://github.com/italocc-git/ignite-mod2-challenge1.git
 
-# entrar na pasta do projeto ignite-mod2-challenge1
+# enter the project folder ignite-mod2-challenge1
 cd ignite-mod2-challenge1
 
-# instalar dependências
+# install dependencies
 yarn install / npm install
 
-# executar o projeto
+# run the project
 yarn dev / npm run dev
 ```
  
-# Autor
+# Author
 
 Italo Costa Cavalcante
 
